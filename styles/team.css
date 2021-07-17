@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 2em;
+    background-color: #23272A !important;
+    max-height: 100vh;
+}
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    color: #fff !important;
+}
+.shizue__menu-bg {
+    background-color: #2C2F33 !important;
+}
+.shizue__menu-icon {
+    color: #fff !important;
+    position: relative;
+    top: 6px;
+}
+.nav-link {
+    text-transform: lowercase;
+}
+.shizue__welcome {
+    background-color: #2C2F33 !important;
+}
+.shizue__primary-btn {
+    padding: 15px !important;
+    border-radius: 10px !important;
+    width: 350px;
+    background-color: #7289DA !important;
+    border: #7289DA !important;
+}
+.shizue__docs-btn {
+    padding: 10px !important;
+    border-radius: 10px !important;
+    width: 150px;
+    background-color: #7289DA !important;
+    border: #7289DA !important;
+}
+.shizue__footer {
+    background-color: #2C2F33 !important;
+    padding: 20px;
+}
+h6 {
+    color: #7289da;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-width: 700;
+}
+.shizue__social-media a i {
+    font-size: 25px !important;
+    padding: 10px 5px;
+}
+.col-lg-4 {
+    padding: 15px;
+}
+.col-lg-4 > p {
+    font-size: 10px;
+}
+
+center > a {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+
+img {
+    border-radius: 50%;
+    width: 128px;
+}
+.cards {
+    margin-top: 30px !important;
+}
+
+.card {
+    border: none !important;
+}
+
+.col {
+    padding: 0 !important;
+}
+
+.row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.card-body {
+    background-color: #23272A !important;
+}
+.card-title {
+    font-size: 28px !important;
+    font-weight: 600 !important;
+    color: #7289da !important;
+}
+.card-text {
+    color: #f7f7f7;
+}
+.team {
+    text-align: center;
+}
